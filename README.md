@@ -1,2 +1,2 @@
-# KubernetesJenkinsTutorial
-CI/CD using Docker/Kubernetes &amp; Jenkins Tutoral
+# CI/CD using Docker/Kubernetes &amp; Jenkins Tutoral
+
