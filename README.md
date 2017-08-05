@@ -1,4 +1,4 @@
 # CI/CD using Docker/Kubernetes &amp; Jenkins Tutoral
 
-The Jenkins Tutorial
+A Jenkins Tutorial
 
