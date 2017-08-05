@@ -1,6 +1,4 @@
 # CI/CD using Docker/Kubernetes &amp; Jenkins Tutoral
 
-A Jenkins Tutorial 
-with Kubernetes
-and Docker
+A Jenkins Tutorial (using Kubernetes and Docker)
 
